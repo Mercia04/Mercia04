@@ -1,16 +1,23 @@
-## Hi there 👋
+ 👋 Salut, je suis Mercia JOARINESA
 
-<!--
-**Mercia04/Mercia04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en développement logiciel | 💻 Passionné de Java, PHP, et React Native  
+🚀 J’aime créer des applications modernes et performantes. 
 
-Here are some ideas to get you started:
+## 🌟 Mes projets récents
+- 🔧 [Intégration & Personnalisation d’ERPNext via API](https://github.com/Mercia04/MyCrm)
+- 📱 [Datawarehouse avec ETL sous Airflow](https://github.com/Mercia04/airflow)
+- 🌍 [Mini-Framework Java inspiré de Spring Boot](https://github.com/Mercia04/Framework_2776)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+- **Langages : Java,C,PHP, Python, JavaScript  
+- **Frameworks : CodeIgniter, React, .NET MVC, Jakarta EE
+- **Base de donnee : Mysql,postgres,oracle,sql server
+- **Outils : Git, tomcat, inteligi ,VS Code, WildFly  
+
+## 📫 Me contacter
+- 💼 [LinkedIn](https://www.linkedin.com/in/joarinesa-mercia-148bb6355/)
+- 📧 joarinesa@gmail.com
+
+
+
+
