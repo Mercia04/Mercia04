@@ -1,6 +1,6 @@
  👋 Salut, je suis Mercia JOARINESA
 
-🎓 Étudiant en développement logiciel | 💻 Passionné de Java, PHP, et React Native  
+🎓 Étudiant en développement logiciel | 💻 Passionné de Java, C, PHP, et React Native  
 🚀 J’aime créer des applications modernes et performantes. 
 
 ## 🌟 Mes projets récents
