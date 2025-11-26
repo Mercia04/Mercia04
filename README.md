@@ -10,7 +10,7 @@
 
 ## 🛠️ Compétences
 - **Langages : Java,C,PHP, Python, JavaScript  
-- **Frameworks : CodeIgniter, React, .NET MVC, Jakarta EE
+- **Frameworks : spring boot, Laravel, React 
 - **Base de donnee : Mysql,postgres,oracle,sql server
 - **Outils : Git, tomcat, inteligi ,VS Code, WildFly  
 
